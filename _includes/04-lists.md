@@ -17,5 +17,5 @@
 - Day 8
       [3 SUM](https://codextream.github.io/3-SUM/)
 
-
+<iframe width="644" height="362" src="https://www.youtube.com/embed/qf01ly59_aE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
