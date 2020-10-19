@@ -1,1 +1,2 @@
-# Leetcode July Challenge
+# Syllabus
+## Electrons and holes
